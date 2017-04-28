@@ -189,3 +189,8 @@ Apache home page, so I deleted it. I updated the page with Ctrl + 5 so that the 
 
 And then, my wordpress page was ready.
  
+## Refereces
+
+
+	http://www.tecmint.com/install-wordpress-on-ubuntu-16-04-with-lamp/
+	https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-with-lamp-on-ubuntu-16-04
