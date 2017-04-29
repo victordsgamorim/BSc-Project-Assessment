@@ -77,7 +77,7 @@ of its plugins require additional PHP extensions.
 	$ sudo apt-get install php-curl php-gd php-mbstring php-mcrypt php-xml php-xmlrpc
 
 Each WordPress plugin has its own set of requirements. Some may require additional PHP packages to be installed.  
-To test if PHP is working in collaboration with the web server, I needed to create a 'infor.php' file inse /var/www/html/
+To test if PHP is working in collaboration with the web server, I needed to create a 'infor.php' file insert /var/www/html/
 
 	$ sudo vi /var/www/html/info.php
 
